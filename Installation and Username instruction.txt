@@ -6,14 +6,14 @@
 4.pkg install git
 5.pip2 install mechanize
 6.pip2 install requests
-7.git clone
+7.git clone https://github.com/Sumbicreaters/Fast-Clonner
 8.cd Fast-Clonner
 9.ls
 10.python2 Fast-Clonner.py
 
 
 ## For Linux User
-1.git clone
+1.git clone https://github.com/Sumbicreaters/Fast-Clonner
 2.cd Fast-Clonner
 3.ls
 4.python2 Fast-Clonner.py
